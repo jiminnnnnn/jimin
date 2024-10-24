@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # 💬 지민이의 포토폴리오
-
+<br/>
+<br/>
+<br/>
+<br/>
 ## 👋 intro
 안녕하세요! 4학년 1년동안 벤처 아카데미 수업을 들으며 
 <br/>딥러닝, ai, 데이터 분석을 공부했습니다.
