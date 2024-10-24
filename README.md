@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ## 👋 intro
 안녕하세요! 4학년 1년동안 벤처 아카데미 수업을 들으며 
 <br/>딥러닝, ai, 데이터 분석을 공부했습니다.
-<https://github.com/jiminnnnnn/PJ.kick>
 <br/>
 <br/>
 <br/>
@@ -28,7 +27,6 @@ Here are some ideas to get you started:
 ## 🌱 project
 24년 3월부터 지금까지 진행했던 프로젝트들입니다. 
 <br/>인공지능 ai, 딥러닝, 데이터 분석 등 코딩 역할을 주로 맡아 진행했습니다.
-<https://github.com/jiminnnnnn/PJ.kick>
 <br/>
 <br/>
 <br/>
@@ -40,7 +38,6 @@ Here are some ideas to get you started:
 			스킬 : Python, 자연어 처리, selenium
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.umbrella>
-<https://github.com/jiminnnnnn/PJ.kick>
 <br/>
 <br/>
 <br/>
@@ -63,7 +60,6 @@ Here are some ideas to get you started:
 			스킬 : 딥러닝, resnet 
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.name>
-<https://github.com/jiminnnnnn/PJ.kick>
 <br/>
 <br/>
 <br/>
@@ -75,7 +71,6 @@ Here are some ideas to get you started:
 			스킬 : Python, LLM, openAI, api 활용
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.uchat>
-<https://github.com/jiminnnnnn/PJ.kick>
 <br/>
 <br/>
 <br/>
