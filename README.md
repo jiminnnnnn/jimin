@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 ## ⚡재난대비 챗봇
-		재난상황 대비 카카오톡 챗봇
-			개발기간 : 2024.08.12 ~ 
-			핵심역할 : 챗봇 제작, api를 활용한 카카오톡 연결, 프롬프트 작성
-				스킬 : api 활용, Python
+	재난상황 대비 카카오톡 챗봇
+		개발기간 : 2024.08.12 ~ 
+		핵심역할 : 챗봇 제작, api를 활용한 카카오톡 연결, 프롬프트 작성
+			스킬 : api 활용, Python
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.kchat>
