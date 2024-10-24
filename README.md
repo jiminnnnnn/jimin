@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 			스킬 : Python, 자연어 처리, selenium
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.umbrella>
+<https://github.com/jiminnnnnn/PJ.kick>
+<br/>
+<br/>
+<br/>
 <br/>
 ## ⚡전동킥보드
 	공공 데이터를 활용한 데이터 분석
@@ -49,6 +53,10 @@ Here are some ideas to get you started:
 			스킬 : 딥러닝, resnet 
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.name>
+<https://github.com/jiminnnnnn/PJ.kick>
+<br/>
+<br/>
+<br/>
 <br/>
 ## ⚡강의계획서 챗봇
 	강의계획서 특화 챗봇
@@ -57,6 +65,10 @@ Here are some ideas to get you started:
 			스킬 : Python, LLM, openAI, api 활용
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.uchat>
+<https://github.com/jiminnnnnn/PJ.kick>
+<br/>
+<br/>
+<br/>
 <br/>
 ## ⚡재난대비 챗봇
 		재난상황 대비 카카오톡 챗봇
