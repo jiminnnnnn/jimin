@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 		개발기간 : 2024.04.02 ~ 04.14
 		핵심역할 : 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
 			스킬 : Python, 자연어 처리, selenium
-<https://www.notion.so/be6863e600af4dab8491a1a9cf98c165>
+[<https://www.notion.so/be6863e600af4dab8491a1a9cf98c165>]
 ## ⚡전동킥보드
 	공공 데이터를 활용한 데이터 분석
 		개발기간 : 2024.04.30 ~ 05.29
