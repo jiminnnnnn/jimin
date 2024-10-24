@@ -39,6 +39,9 @@ Here are some ideas to get you started:
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.kick>
 <br/>
+<br/>
+<br/>
+<br/>
 ## ⚡닉네임 생성기
 	얼굴 사진을 학습해 닉네임 생성기
 		개발기간 : 2024.05.10 ~ 05.26
