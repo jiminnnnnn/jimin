@@ -28,28 +28,33 @@ Here are some ideas to get you started:
 		개발기간 : 2024.04.02 ~ 04.14
 		핵심역할 : 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
 			스킬 : Python, 자연어 처리, selenium
-### 프로젝트 상세 설명
-<https://github.com/jiminnnnnn/jiminnnnnn>
+   ### 프로젝트 상세 설명
+<https://github.com/jiminnnnnn/PJ.umbrella>
 ## ⚡전동킥보드
 	공공 데이터를 활용한 데이터 분석
 		개발기간 : 2024.04.30 ~ 05.29
 		핵심 역할 : 자료조사, 셀레니움을 활용한 데이터 수집, 지도 api를 활용한 데이터 수집
 			스킬 : selenium, api 활용, 자연어처리, 워드 클라우드
-<https://www.notion.so/ffe491076073455da1f55005fcff1864>
+   ### 프로젝트 상세 설명
+<https://github.com/jiminnnnnn/PJ.kick>
 ## ⚡닉네임 생성기
 	얼굴 사진을 학습해 닉네임 생성기
 		개발기간 : 2024.05.10 ~ 05.26
 		핵심역할 : 자료수집, ai 모델 학습, ai 학습
 			스킬 : 딥러닝, resnet 
-<https://www.notion.so/cd22f4013d8f45eca136c2a5939376d4>
+   ### 프로젝트 상세 설명
+<https://github.com/jiminnnnnn/PJ.name>
 ## ⚡강의계획서 챗봇
 	강의계획서 특화 챗봇
 		개발기간 : 2024.06.03 ~ 06.14
 		핵심역할 : api를 활용해 챗봇과 chatGPT 연결, 프롬프트 작성,  
 			스킬 : Python, LLM, openAI, api 활용
-    
+   ### 프로젝트 상세 설명
+<https://github.com/jiminnnnnn/PJ.uchat>
 ## ⚡재난대비 챗봇
 		재난상황 대비 카카오톡 챗봇
 			개발기간 : 2024.08.12 ~ 
 			핵심역할 : 챗봇 제작, api를 활용한 카카오톡 연결, 프롬프트 작성
 				스킬 : api 활용, Python
+   ### 프로젝트 상세 설명
+<https://github.com/jiminnnnnn/PJ.kchat>
