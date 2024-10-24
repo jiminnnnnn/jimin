@@ -31,6 +31,9 @@ Here are some ideas to get you started:
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.umbrella>
 &nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
 ## ⚡전동킥보드
 	공공 데이터를 활용한 데이터 분석
 		개발기간 : 2024.04.30 ~ 05.29
