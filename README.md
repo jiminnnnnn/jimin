@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💬 지민이의 포트폴리오
+# 💬 신지민 포트폴리오
 
 <br/>
 <br/>
