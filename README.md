@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 		프로그래밍 언어: Python
 		데이터 수집 및 크롤링: Selenium, Beautiful Soup
 		데이터 처리 및 분석: Pandas
-		자연어 처리: 형태소 분석, 텍스트 전처리, 키워드 추출
+		자연어 처리: 형태소 분석, 텍스트 전처리, 키워드 추출, 긍부정 분석
 		API 활용: 공공 데이터 API
    
 ### 일회용 우산을 사는 건 아까운데 우산을 빌릴 수는 없을까?
