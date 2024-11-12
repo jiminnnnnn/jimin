@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <br/>
 ## ⚡GS25 공유우산
 [![image](https://github.com/user-attachments/assets/80c95bbe-9668-4e72-ad33-4cc347e95f89)](<https://github.com/jiminnnnnn/PJ.umbrella>)
+
 	데이터 분석을 통한 공유우산 사업 추천
 		개발기간 : 2024.04.02 ~ 04.14
 		핵심역할 : 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
