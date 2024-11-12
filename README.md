@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 #### 데이터 분석을 통한 공유우산 사업 추천
 	개발기간: 2024.04.02 ~ 2024.04.14
 	핵심역할: 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
-
 	스킬:
 		프로그래밍 언어: Python
 		데이터 수집 및 크롤링: Selenium, Beautiful Soup
