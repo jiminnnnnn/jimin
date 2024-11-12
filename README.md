@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 		개발기간 : 2024.04.02 ~ 04.14
 		핵심역할 : 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
 			스킬 : Python, 자연어 처리, selenium
-
+   
+## 일회용 우산을 사는 것 보다 우산을 빌려 쓰는건 어떨까?
 
    ![image](https://github.com/user-attachments/assets/80c95bbe-9668-4e72-ad33-4cc347e95f89)
 ![image](https://github.com/user-attachments/assets/347862b9-e3ad-41f0-988b-d635f62a03ae)
