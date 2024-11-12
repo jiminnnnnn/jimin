@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 	데이터 분석을 통한 공유우산 사업 추천
 		개발기간 : 2024.04.02 ~ 04.14
 		핵심역할 : 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
-			스킬 : Python, 자연어 처리, selenium
+			스킬 : Python, 자연어 처리, selenium, Python, 자연어 처리, selenium, beautiful soup, pandas, api
    
 ### 일회용 우산을 사는 건 아까운데 우산을 빌릴 수는 없을까?
 #### 1. 우산 대여가 필요한 이유를 입증하기 위한 데이터 수집 및 분석
