@@ -46,10 +46,8 @@ Here are some ideas to get you started:
 #### 2. 우산 대여 서비스에 맞는 플랫폼을 찾기 위해 데이터 수집 및 분석
 #### 3. 기존 유사 서비스 조사와 실패 원인 분석 및 해결
 #### 4. 서비스 제안 및 기대 효과
-![image](https://github.com/user-attachments/assets/80c95bbe-9668-4e72-ad33-4cc347e95f89)
-![image](https://github.com/user-attachments/assets/347862b9-e3ad-41f0-988b-d635f62a03ae)
-![image](https://github.com/user-attachments/assets/cfbd9b8d-d1de-4a6b-a318-5ad3dee9ae21)
-![image](https://github.com/user-attachments/assets/2cfe8418-a304-4798-90df-3ed34b828f3b)
+[![image](https://github.com/user-attachments/assets/80c95bbe-9668-4e72-ad33-4cc347e95f89)](<https://github.com/jiminnnnnn/PJ.umbrella>)
+
 
 
    ### 프로젝트 상세 설명
