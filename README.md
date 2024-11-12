@@ -68,6 +68,10 @@ Here are some ideas to get you started:
 		개발기간 : 2024.05.10 ~ 05.26
 		핵심역할 : 자료수집, ai 모델 학습, ai 학습
 			스킬 : 딥러닝, resnet 
+   ![image](https://github.com/user-attachments/assets/4f6cd0c8-9987-4aca-8fda-9f8dcd3afbf9)
+![image](https://github.com/user-attachments/assets/057bc330-78ab-43fb-b9ef-38763257fa1b)
+![image](https://github.com/user-attachments/assets/805a6d8e-763d-4e2b-8062-438da014431d)
+
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.name>
 <br/>
@@ -79,6 +83,8 @@ Here are some ideas to get you started:
 		개발기간 : 2024.06.03 ~ 06.14
 		핵심역할 : api를 활용해 챗봇과 chatGPT 연결, 프롬프트 작성,  
 			스킬 : Python, LLM, openAI, api 활용
+   ![image](https://github.com/user-attachments/assets/7b541827-ad9d-4815-908d-0858dfc1fd2c)
+
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.uchat>
 <br/>
