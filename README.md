@@ -38,10 +38,16 @@ Here are some ideas to get you started:
 ## ⚡GS25 공유우산
 [![image](https://github.com/user-attachments/assets/80c95bbe-9668-4e72-ad33-4cc347e95f89)](<https://github.com/jiminnnnnn/PJ.umbrella>)
 
-	데이터 분석을 통한 공유우산 사업 추천
-		개발기간 : 2024.04.02 ~ 04.14
-		핵심역할 : 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
-			스킬 : Python, 자연어 처리, selenium, Python, 자연어 처리, selenium, beautiful soup, pandas, api
+#### 데이터 분석을 통한 공유우산 사업 추천
+개발기간: 2024.04.02 ~ 2024.04.14
+핵심역할: 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
+
+스킬:
+	프로그래밍 언어: Python
+	데이터 수집 및 크롤링: Selenium, Beautiful Soup
+	데이터 처리 및 분석: Pandas
+	자연어 처리: 형태소 분석, 텍스트 전처리, 키워드 추출
+	API 활용: 공공 데이터 API
    
 ### 일회용 우산을 사는 건 아까운데 우산을 빌릴 수는 없을까?
 #### 1. 우산 대여가 필요한 이유를 입증하기 위한 데이터 수집 및 분석
@@ -73,10 +79,15 @@ Here are some ideas to get you started:
 ## ⚡닉네임 생성기
 [![image](https://github.com/user-attachments/assets/6bf8ca0d-c0ef-4d2a-ad6c-d59a2f93473d)](<https://github.com/jiminnnnnn/PJ.name>)
 
-	얼굴 사진을 학습해 닉네임 생성기
-		개발기간 : 2024.05.10 ~ 05.26
-		핵심역할 : 자료수집, ai 모델 학습, ai 학습
-			스킬 : 딥러닝, resnet 
+#### 얼굴 인식을 통한 닉네임 생성기
+개발기간: 2024.05.10 ~ 2024.05.26
+핵심역할: 자료 수집, AI 모델 설계 및 학습
+스킬:
+	프로그래밍 언어: Python
+	딥러닝 및 머신러닝: ResNet-34, DeepFace
+	컴퓨터 비전: OpenCV
+	데이터 수집 및 크롤링: Selenium
+	AI 모델 학습: 이미지 전처리, 데이터 증강, 모델 훈련 및 평가
 ### 기존의 랜덤한 이름(별명) 생성기 말고 나의 특징에 맞는 이름(별명)을 생성해주는 서비스를 만들어보자!
 #### 1. 기존의 랜덤 이름 생성기의 단점 
 #### 2. 딥러닝 학습을 위한 데이터 수집 및 전처리
@@ -96,10 +107,16 @@ Here are some ideas to get you started:
 ## ⚡강의계획서 챗봇
 [![image](https://github.com/user-attachments/assets/7b541827-ad9d-4815-908d-0858dfc1fd2c)](<https://github.com/jiminnnnnn/PJ.uchat>)
 
-	강의계획서 특화 챗봇
-		개발기간 : 2024.06.03 ~ 06.14
-		핵심역할 : api를 활용해 챗봇과 chatGPT 연결, 프롬프트 작성,  
-			스킬 : Python, LLM, openAI, api 활용
+#### 강의계획서 특화 챗봇
+개발기간: 2024.06.03 ~ 2024.06.14
+핵심역할: API를 활용한 ChatGPT와 챗봇 연결, 프롬프트 작성
+
+스킬:
+	프로그래밍 언어: Python
+	대규모 언어 모델 (LLM): OpenAI API (ChatGPT API)
+	API 활용 및 연동: RESTful API 설계 및 호출, OpenAI API 통합
+	챗봇 개발: 챗봇 GUI 설계 및 구현 (Tkinter 또는 PyQt 등 활용 가능)
+	프롬프트 엔지니어링: 효과적인 ChatGPT 프롬프트 작성 및 최적화
 ### 대학교 강의계획서가 부실한데 이를 채워줄 챗봇이 있으면 어떨까? 더 나아가 강의 자체에 도움을 줄 수 있는 챗봇이 있다면?
 #### 1. 기존 강의계획서의 문제 조사
 #### 2. 챗 GPT를 활용하여 챗봇 제작
@@ -115,10 +132,15 @@ Here are some ideas to get you started:
 ## ⚡재난대비 챗봇
 [![image](https://github.com/user-attachments/assets/548dee7d-9c6a-4b8a-b15a-1b769fe2ff53)](<https://github.com/jiminnnnnn/PJ.kchat>)
 
-	재난상황 대비 카카오톡 챗봇
-		개발기간 : 2024.08.12 ~ 
-		핵심역할 : 챗봇 제작, api를 활용한 카카오톡 연결, 프롬프트 작성
-			스킬 : api 활용, Python
+#### 재난상황 대비 카카오톡 챗봇
+개발기간: 2024.08.12 ~
+핵심역할: 챗봇 제작, API를 활용한 카카오톡과의 연결, 프롬프트 작성
+
+스킬:
+	프로그래밍 언어: Python
+	API 활용 및 연동: KakaoTalk API, OpenAI API (ChatGPT)
+	챗봇 개발: 카카오톡 플랫폼에 특화된 챗봇 설계 및 구현
+	프롬프트 엔지니어링: 효과적인 프롬프트 작성 및 테스트
 ### 재난 시 문자가 오는 것에 그치지 말고 더 자세한 대응법을 알려줄 수 있는 서비스가 있으면 좋겠다.
 #### 1. 기존 시스템의 문제점과 자연재해 데이터 조사 및 분석
 #### 2. 유사 서비스 분석
