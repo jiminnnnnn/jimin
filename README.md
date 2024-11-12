@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 		개발기간 : 2024.04.02 ~ 04.14
 		핵심역할 : 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
 			스킬 : Python, 자연어 처리, selenium
+   ![image](https://github.com/user-attachments/assets/9629c069-a6be-41b9-a56f-0be5442cd2df)
+
    ![image](https://github.com/user-attachments/assets/80c95bbe-9668-4e72-ad33-4cc347e95f89)
 ![image](https://github.com/user-attachments/assets/347862b9-e3ad-41f0-988b-d635f62a03ae)
 ![image](https://github.com/user-attachments/assets/cfbd9b8d-d1de-4a6b-a318-5ad3dee9ae21)
