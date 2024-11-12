@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 #### 데이터 분석을 통한 공유우산 사업 추천
 	개발기간: 2024.04.02 ~ 2024.04.14
-	핵심역할: 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
+	역할: 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
 	스킬:
 		프로그래밍 언어: Python
 		데이터 수집 및 크롤링: Selenium, Beautiful Soup
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ## ⚡전동킥보드
 #### 공공 데이터를 활용한 데이터 분석
 	개발기간 : 2024.04.30 ~ 05.29
-	핵심 역할 : 자료조사, 셀레니움을 활용한 데이터 수집, 지도 api를 활용한 데이터 수집
+	역할 : 자료조사, 셀레니움을 활용한 데이터 수집, 지도 api를 활용한 데이터 수집
 	스킬 : selenium, api 활용, 자연어처리, 워드 클라우드
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.kick>
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 #### 얼굴 인식을 통한 닉네임 생성기
 	개발기간: 2024.05.10 ~ 2024.05.26
-	핵심역할: 자료 수집, AI 모델 설계 및 학습
+	역할: 자료 수집, AI 모델 설계 및 학습
 	스킬:
 		프로그래밍 언어: Python
 		딥러닝 및 머신러닝: ResNet-34, DeepFace
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 
 #### 강의계획서 특화 챗봇
 	개발기간: 2024.06.03 ~ 2024.06.14
-	핵심역할: API를 활용한 ChatGPT와 챗봇 연결, 프롬프트 작성
+	역할: API를 활용한 ChatGPT와 챗봇 연결, 프롬프트 작성
 	스킬:
 		프로그래밍 언어: Python
 		대규모 언어 모델 (LLM): OpenAI API (ChatGPT API)
@@ -132,8 +132,7 @@ Here are some ideas to get you started:
 
 #### 재난상황 대비 카카오톡 챗봇
 	개발기간: 2024.08.12 ~
-	핵심역할: 챗봇 제작, API를 활용한 카카오톡과의 연결, 프롬프트 작성
-	
+	역할: 챗봇 제작, API를 활용한 카카오톡과의 연결, 프롬프트 작성
 	스킬:
 		프로그래밍 언어: Python
 		API 활용 및 연동: KakaoTalk API, OpenAI API (ChatGPT)
