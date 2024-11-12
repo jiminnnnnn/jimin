@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## ⚡GS25 공유우산
 [![image](https://github.com/user-attachments/assets/80c95bbe-9668-4e72-ad33-4cc347e95f89)](<https://drive.google.com/file/d/1HdT4hgR4bHSfTVH8Rcu8KRHdLRUBjTKr/view?usp=sharing>)
 
-#### 데이터 분석을 통한 공유우산 사업 추천
+### 데이터 분석을 통한 공유우산 사업 추천
 	개발기간: 2024.04.02 ~ 2024.04.14
 	역할: 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
 	스킬:
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 ## ⚡닉네임 생성기
 [![image](https://github.com/user-attachments/assets/6bf8ca0d-c0ef-4d2a-ad6c-d59a2f93473d)](<https://github.com/jiminnnnnn/PJ.name>)
 
-#### 얼굴 인식을 통한 닉네임 생성기
+### 얼굴 인식을 통한 닉네임 생성기
 	개발기간: 2024.05.10 ~ 2024.05.26
 	역할: 자료 수집, AI 모델 설계 및 학습
 	스킬:
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 ## ⚡강의계획서 챗봇
 [![image](https://github.com/user-attachments/assets/7b541827-ad9d-4815-908d-0858dfc1fd2c)](<https://github.com/jiminnnnnn/PJ.uchat>)
 
-#### 강의계획서 특화 챗봇
+### 강의계획서 특화 챗봇
 	개발기간: 2024.06.03 ~ 2024.06.14
 	역할: API를 활용한 ChatGPT와 챗봇 연결, 프롬프트 작성
 	스킬:
@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 ## ⚡재난대비 챗봇
 [![image](https://github.com/user-attachments/assets/548dee7d-9c6a-4b8a-b15a-1b769fe2ff53)](<https://github.com/jiminnnnnn/PJ.kchat>)
 
-#### 재난상황 대비 카카오톡 챗봇
+### 재난상황 대비 카카오톡 챗봇
 	개발기간: 2024.08.12 ~
 	역할: 서버 구축, 챗봇 제작, 카카오톡과 ChatGPT API를 연동하여 채팅 기능 구현, 프롬프트 작성
 	스킬:
