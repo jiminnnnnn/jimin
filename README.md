@@ -74,7 +74,8 @@ Here are some ideas to get you started:
 
    ![image](https://github.com/user-attachments/assets/4f6cd0c8-9987-4aca-8fda-9f8dcd3afbf9)
 ![image](https://github.com/user-attachments/assets/057bc330-78ab-43fb-b9ef-38763257fa1b)
-![image](https://github.com/user-attachments/assets/805a6d8e-763d-4e2b-8062-438da014431d)
+![ㅁㄴㅇㅁㅁㅁ](https://github.com/user-attachments/assets/512555ab-afcd-4610-a8c8-28f161344a58)
+
 
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.name>
