@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 
 ## ⚡닉네임 생성기
 [![image](https://github.com/user-attachments/assets/6bf8ca0d-c0ef-4d2a-ad6c-d59a2f93473d)](<https://github.com/jiminnnnnn/PJ.name>)
+
 	얼굴 사진을 학습해 닉네임 생성기
 		개발기간 : 2024.05.10 ~ 05.26
 		핵심역할 : 자료수집, ai 모델 학습, ai 학습
@@ -94,6 +95,7 @@ Here are some ideas to get you started:
 <br/>
 ## ⚡강의계획서 챗봇
 [![image](https://github.com/user-attachments/assets/7b541827-ad9d-4815-908d-0858dfc1fd2c)](<https://github.com/jiminnnnnn/PJ.uchat>)
+
 	강의계획서 특화 챗봇
 		개발기간 : 2024.06.03 ~ 06.14
 		핵심역할 : api를 활용해 챗봇과 chatGPT 연결, 프롬프트 작성,  
@@ -112,6 +114,7 @@ Here are some ideas to get you started:
 <br/>
 ## ⚡재난대비 챗봇
 [![image](https://github.com/user-attachments/assets/548dee7d-9c6a-4b8a-b15a-1b769fe2ff53)](<https://github.com/jiminnnnnn/PJ.kchat>)
+
 	재난상황 대비 카카오톡 챗봇
 		개발기간 : 2024.08.12 ~ 
 		핵심역할 : 챗봇 제작, api를 활용한 카카오톡 연결, 프롬프트 작성
