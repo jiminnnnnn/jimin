@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 		개발기간 : 2024.04.02 ~ 04.14
 		핵심역할 : 자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
 			스킬 : Python, 자연어 처리, selenium
-   ![image](https://github.com/user-attachments/assets/9629c069-a6be-41b9-a56f-0be5442cd2df)
+
 
    ![image](https://github.com/user-attachments/assets/80c95bbe-9668-4e72-ad33-4cc347e95f89)
 ![image](https://github.com/user-attachments/assets/347862b9-e3ad-41f0-988b-d635f62a03ae)
@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 		개발기간 : 2024.05.10 ~ 05.26
 		핵심역할 : 자료수집, ai 모델 학습, ai 학습
 			스킬 : 딥러닝, resnet 
+      ![image](https://github.com/user-attachments/assets/9629c069-a6be-41b9-a56f-0be5442cd2df)
    ![image](https://github.com/user-attachments/assets/4f6cd0c8-9987-4aca-8fda-9f8dcd3afbf9)
 ![image](https://github.com/user-attachments/assets/057bc330-78ab-43fb-b9ef-38763257fa1b)
 ![image](https://github.com/user-attachments/assets/805a6d8e-763d-4e2b-8062-438da014431d)
