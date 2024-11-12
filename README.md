@@ -42,7 +42,10 @@ Here are some ideas to get you started:
 			스킬 : Python, 자연어 처리, selenium
    
 ### 일회용 우산을 사는 건 아까운데 우산을 빌릴 수는 없을까?
-
+#### 1. 우산 대여가 필요한 이유를 입증하기 위한 데이터 수집 및 분석
+#### 2. 우산 대여 서비스에 맞는 플랫폼을 찾기 위해 데이터 수집 및 분석
+#### 3. 기존 유사 서비스 조사와 실패 원인 분석 및 해결
+#### 4. 서비스 제안 및 기대 효과
    ![image](https://github.com/user-attachments/assets/80c95bbe-9668-4e72-ad33-4cc347e95f89)
 ![image](https://github.com/user-attachments/assets/347862b9-e3ad-41f0-988b-d635f62a03ae)
 ![image](https://github.com/user-attachments/assets/cfbd9b8d-d1de-4a6b-a318-5ad3dee9ae21)
