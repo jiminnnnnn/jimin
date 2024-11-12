@@ -70,7 +70,8 @@ Here are some ideas to get you started:
 		개발기간 : 2024.05.10 ~ 05.26
 		핵심역할 : 자료수집, ai 모델 학습, ai 학습
 			스킬 : 딥러닝, resnet 
-      ![image](https://github.com/user-attachments/assets/9629c069-a6be-41b9-a56f-0be5442cd2df)
+![image](https://github.com/user-attachments/assets/6bf8ca0d-c0ef-4d2a-ad6c-d59a2f93473d)
+
    ![image](https://github.com/user-attachments/assets/4f6cd0c8-9987-4aca-8fda-9f8dcd3afbf9)
 ![image](https://github.com/user-attachments/assets/057bc330-78ab-43fb-b9ef-38763257fa1b)
 ![image](https://github.com/user-attachments/assets/805a6d8e-763d-4e2b-8062-438da014431d)
