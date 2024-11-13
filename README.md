@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 ## ⚡전동킥보드
+[![image](https://github.com/user-attachments/assets/ede06293-2f87-4e69-b7f2-c3ec8f6bd18d)](<https://drive.google.com/file/d/1BLzctTVUykx3_Yatg5lnoh09Vj80Ibpo/view?usp=sharing>)
 #### 공공 데이터를 활용한 데이터 분석
 	개발기간 : 2024.04.30 ~ 05.29
 	역할 : 자료조사, 셀레니움을 활용한 데이터 수집, 지도 api를 활용한 데이터 수집
