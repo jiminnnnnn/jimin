@@ -126,7 +126,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 ## ⚡재난대비 챗봇
-[![image](https://github.com/user-attachments/assets/548dee7d-9c6a-4b8a-b15a-1b769fe2ff53)](<https://github.com/jiminnnnnn/PJ.kchat>)
+[![image](https://github.com/user-attachments/assets/548dee7d-9c6a-4b8a-b15a-1b769fe2ff53)]
 
 ### 재난상황 대비 카카오톡 챗봇
 	개발기간: 2024.08.12 ~
