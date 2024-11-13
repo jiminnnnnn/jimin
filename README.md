@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## ⚡닉네임 생성기
-[![image](https://github.com/user-attachments/assets/6bf8ca0d-c0ef-4d2a-ad6c-d59a2f93473d)](<https://github.com/jiminnnnnn/PJ.name>)
+[![image](https://github.com/user-attachments/assets/6bf8ca0d-c0ef-4d2a-ad6c-d59a2f93473d)](<https://drive.google.com/file/d/1IyOt_sHtKJCIjKJ8n1Vx38MuKTuiOHb-/view?usp=sharing>)
 
 ### 얼굴 인식을 통한 닉네임 생성기
 	개발기간: 2024.05.10 ~ 2024.05.26
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 ## ⚡강의계획서 챗봇
-[![image](https://github.com/user-attachments/assets/7b541827-ad9d-4815-908d-0858dfc1fd2c)](<https://github.com/jiminnnnnn/PJ.uchat>)
+[![image](https://github.com/user-attachments/assets/7b541827-ad9d-4815-908d-0858dfc1fd2c)](<https://drive.google.com/file/d/12oVR9RN4V44-PZziKYuwRZiDSp62DNW-/view?usp=sharing>)
 
 ### 강의계획서 특화 챗봇
 	개발기간: 2024.06.03 ~ 2024.06.14
