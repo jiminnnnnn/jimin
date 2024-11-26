@@ -128,6 +128,30 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
+## ⚡AI 인공지능 아이디어톤
+<https://github.com/jiminnnnnn/aiidea/blob/main/README.md>
+### 강의계획서 특화 챗봇
+	개발기간: 2024.06.03 ~ 2024.06.14
+	역할: API를 활용한 ChatGPT와 챗봇 연결, 프롬프트 작성
+	스킬:
+		프로그래밍 언어: Python
+		대규모 언어 모델 (LLM): OpenAI API (ChatGPT API)
+		API 활용 및 연동: RESTful API 설계 및 호출, OpenAI API 통합
+		챗봇 개발: 챗봇 GUI 설계 및 구현 (Tkinter 또는 PyQt 등 활용 가능)
+		프롬프트 엔지니어링: 효과적인 ChatGPT 프롬프트 작성 및 최적화
+### 대학교 강의계획서가 부실한데 이를 채워줄 챗봇이 있으면 어떨까? 더 나아가 강의 자체에 도움을 줄 수 있는 챗봇이 있다면?
+#### 1. 기존 강의계획서는 너무 파악하기 어렵게 되어있다.
+#### 2. 챗 GPT를 활용하여 챗봇 제작
+#### 3. 프롬프트 작성과 데이터베이스 연결
+#### 4. 기출 문제 생성 등 부가 기능 추가
+
+
+   ### 프로젝트 상세 설명
+<https://github.com/jiminnnnnn/PJ.uchat>
+<br/>
+<br/>
+<br/>
+<br/>
 ## ⚡재난대비 챗봇
 [![image](https://github.com/user-attachments/assets/548dee7d-9c6a-4b8a-b15a-1b769fe2ff53)]
 
