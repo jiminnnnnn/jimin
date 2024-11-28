@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-## ⚡GS25 공유우산
+## ⚡GS25 공유우산 (우수상, 데이터인사이트이노베이션 공모전)
 [![image](https://github.com/user-attachments/assets/80c95bbe-9668-4e72-ad33-4cc347e95f89)](<https://drive.google.com/file/d/1HdT4hgR4bHSfTVH8Rcu8KRHdLRUBjTKr/view?usp=sharing>)
 
 ### 데이터 분석을 통한 공유우산 사업 추천
@@ -62,6 +62,32 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
+## ⚡AI 인공지능 아이디어톤 (최우수상, 2024 SW/콘텐츠분야 벤처스타트업아카데미 아이디어톤)
+[![image](https://github.com/user-attachments/assets/ca60a7fa-1474-435b-ad36-662c74df4f9c)](https://docs.google.com/presentation/d/1oJ9ZFFiWtC07keup5J3J4IMvaVuixUd5/edit?usp=sharing&ouid=108782679371656087477&rtpof=true&sd=true)
+
+
+### 생성형 AI 기반 음성인식 배달 서비스
+	개발기간: 2024.11.15 ~ 2024.11.22
+	역할: API를 활용한 ChatGPT와 챗봇 연결, 프롬프트 작성
+	스킬:
+		프로그래밍 언어: Python
+		대규모 언어 모델 (LLM): OpenAI API (ChatGPT API)
+		API 활용 및 연동: RESTful API 설계 및 호출, OpenAI API 통합
+		챗봇 개발: 챗봇 GUI 설계 및 구현 (Tkinter 또는 PyQt 등 활용 가능)
+		프롬프트 엔지니어링: 효과적인 ChatGPT 프롬프트 작성 및 최적화
+### 배달 서비스에 접근성이 낮은 특정 이용자들이 더 쉽게 서비스에 접근할 수 있게 할 수는 없을까?
+#### 1. 기존 강의계획서는 너무 파악하기 어렵게 되어있다.
+#### 2. 챗 GPT를 활용하여 챗봇 제작
+#### 3. 프롬프트 작성과 데이터베이스 연결
+#### 4. 기출 문제 생성 등 부가 기능 추가
+
+   ### 프로젝트 상세 설명
+<https://github.com/jiminnnnnn/aiidea/blob/main/README.md>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## ⚡전동킥보드
 [![image](https://github.com/user-attachments/assets/ede06293-2f87-4e69-b7f2-c3ec8f6bd18d)](<https://drive.google.com/file/d/1BLzctTVUykx3_Yatg5lnoh09Vj80Ibpo/view?usp=sharing>)
 #### 공공 데이터를 활용한 데이터 분석
@@ -124,31 +150,6 @@ Here are some ideas to get you started:
 
    ### 프로젝트 상세 설명
 <https://github.com/jiminnnnnn/PJ.uchat>
-<br/>
-<br/>
-<br/>
-<br/>
-## ⚡AI 인공지능 아이디어톤
-[![image](https://github.com/user-attachments/assets/ca60a7fa-1474-435b-ad36-662c74df4f9c)](https://docs.google.com/presentation/d/1oJ9ZFFiWtC07keup5J3J4IMvaVuixUd5/edit?usp=sharing&ouid=108782679371656087477&rtpof=true&sd=true)
-
-
-### 강의계획서 특화 챗봇
-	개발기간: 2024.06.03 ~ 2024.06.14
-	역할: API를 활용한 ChatGPT와 챗봇 연결, 프롬프트 작성
-	스킬:
-		프로그래밍 언어: Python
-		대규모 언어 모델 (LLM): OpenAI API (ChatGPT API)
-		API 활용 및 연동: RESTful API 설계 및 호출, OpenAI API 통합
-		챗봇 개발: 챗봇 GUI 설계 및 구현 (Tkinter 또는 PyQt 등 활용 가능)
-		프롬프트 엔지니어링: 효과적인 ChatGPT 프롬프트 작성 및 최적화
-### 대학교 강의계획서가 부실한데 이를 채워줄 챗봇이 있으면 어떨까? 더 나아가 강의 자체에 도움을 줄 수 있는 챗봇이 있다면?
-#### 1. 기존 강의계획서는 너무 파악하기 어렵게 되어있다.
-#### 2. 챗 GPT를 활용하여 챗봇 제작
-#### 3. 프롬프트 작성과 데이터베이스 연결
-#### 4. 기출 문제 생성 등 부가 기능 추가
-
-   ### 프로젝트 상세 설명
-<https://github.com/jiminnnnnn/aiidea/blob/main/README.md>
 <br/>
 <br/>
 <br/>
