@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-## ⚡GS25 공유우산 (우수상, 데이터인사이트이노베이션 공모전)
+## ⚡GS25 공유우산 (우수상)
+### - 데이터인사이트이노베이션 공모전
 [![image](https://github.com/user-attachments/assets/80c95bbe-9668-4e72-ad33-4cc347e95f89)](<https://drive.google.com/file/d/1HdT4hgR4bHSfTVH8Rcu8KRHdLRUBjTKr/view?usp=sharing>)
 
 ### 데이터 분석을 통한 공유우산 사업 추천
@@ -62,8 +63,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-## ⚡AI 인공지능 아이디어톤 (최우수상, 
-### 2024 SW/콘텐츠분야 벤처스타트업아카데미 아이디어톤)
+## ⚡AI 인공지능 아이디어톤 (최우수상)
+### - 2024 SW/콘텐츠분야 벤처스타트업아카데미 아이디어톤)
 [![image](https://github.com/user-attachments/assets/ca60a7fa-1474-435b-ad36-662c74df4f9c)](https://docs.google.com/presentation/d/1oJ9ZFFiWtC07keup5J3J4IMvaVuixUd5/edit?usp=sharing&ouid=108782679371656087477&rtpof=true&sd=true)
 
 
