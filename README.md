@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 ## ⚡AI 인공지능 아이디어톤 (최우수상)
-### - 2024 SW/콘텐츠분야 벤처스타트업아카데미 아이디어톤)
+### - 2024 SW/콘텐츠분야 벤처스타트업아카데미 아이디어톤
 [![image](https://github.com/user-attachments/assets/ca60a7fa-1474-435b-ad36-662c74df4f9c)](https://docs.google.com/presentation/d/1oJ9ZFFiWtC07keup5J3J4IMvaVuixUd5/edit?usp=sharing&ouid=108782679371656087477&rtpof=true&sd=true)
 
 
