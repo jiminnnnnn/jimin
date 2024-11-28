@@ -129,7 +129,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 ## ⚡AI 인공지능 아이디어톤
-<https://github.com/jiminnnnnn/aiidea/blob/main/README.md>
+[![image](https://github.com/user-attachments/assets/ca60a7fa-1474-435b-ad36-662c74df4f9c)](https://docs.google.com/presentation/d/1oJ9ZFFiWtC07keup5J3J4IMvaVuixUd5/edit?usp=sharing&ouid=108782679371656087477&rtpof=true&sd=true)
+
+
 ### 강의계획서 특화 챗봇
 	개발기간: 2024.06.03 ~ 2024.06.14
 	역할: API를 활용한 ChatGPT와 챗봇 연결, 프롬프트 작성
@@ -145,9 +147,8 @@ Here are some ideas to get you started:
 #### 3. 프롬프트 작성과 데이터베이스 연결
 #### 4. 기출 문제 생성 등 부가 기능 추가
 
-
    ### 프로젝트 상세 설명
-<https://github.com/jiminnnnnn/PJ.uchat>
+<https://github.com/jiminnnnnn/aiidea/blob/main/README.md>
 <br/>
 <br/>
 <br/>
